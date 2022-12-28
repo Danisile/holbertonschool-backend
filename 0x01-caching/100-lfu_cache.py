@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" LFU Caching """
+""" LFUCache """
 from base_caching import BaseCaching
 from collections import OrderedDict
 
